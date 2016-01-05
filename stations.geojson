@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "Sanford" }, "geometry": { "type": "Point", "coordinates": [ -81.299162324168336, 28.81382676754383 ] } },
+{ "type": "Feature", "properties": { "Name": "Lake Mary" }, "geometry": { "type": "Point", "coordinates": [ -81.318630149739462, 28.758127354702737 ] } },
+{ "type": "Feature", "properties": { "Name": "Altamonte Springs" }, "geometry": { "type": "Point", "coordinates": [ -81.356609822349938, 28.664291390969122 ] } },
+{ "type": "Feature", "properties": { "Name": "Winter Park" }, "geometry": { "type": "Point", "coordinates": [ -81.351675918604045, 28.597634065777136 ] } },
+{ "type": "Feature", "properties": { "Name": "Florida Hospital" }, "geometry": { "type": "Point", "coordinates": [ -81.371257727047762, 28.574584149353207 ] } },
+{ "type": "Feature", "properties": { "Name": "Lynx Central" }, "geometry": { "type": "Point", "coordinates": [ -81.380831343516334, 28.547851082702696 ] } },
+{ "type": "Feature", "properties": { "Name": "Orlando Health" }, "geometry": { "type": "Point", "coordinates": [ -81.382113011810432, 28.527655454879305 ] } },
+{ "type": "Feature", "properties": { "Name": "Sand Lake Road" }, "geometry": { "type": "Point", "coordinates": [ -81.366619556303206, 28.452328845790824 ] } },
+{ "type": "Feature", "properties": { "Name": "Church Street" }, "geometry": { "type": "Point", "coordinates": [ -81.380629716390686, 28.53899378660282 ] } },
+{ "type": "Feature", "properties": { "Name": "Longwood" }, "geometry": { "type": "Point", "coordinates": [ -81.345132680927463, 28.701570994714675 ] } },
+{ "type": "Feature", "properties": { "Name": "Maitland" }, "geometry": { "type": "Point", "coordinates": [ -81.362406365979922, 28.634365915209852 ] } },
+{ "type": "Feature", "properties": { "Name": "DeBary" }, "geometry": { "type": "Point", "coordinates": [ -81.323361014844679, 28.85565884868064 ] } }
+]
+}
